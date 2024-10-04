@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salut c'téquipe, ça joue ou bien ?
 
 <!--
 **aurel-bul/aurel-bul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
